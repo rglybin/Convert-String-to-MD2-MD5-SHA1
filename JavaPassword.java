@@ -11,7 +11,7 @@ public class JavaPassword {
 	 */
 	public static void main(String[] args) {
 		//String salt = "RandomStringForExtraSecurity@#$!%^&*(*)1234567890";
-		String unecryptedPassword = "m2vqc5d3";
+		String unecryptedPassword = "test1234";
 		System.out.println("Unencrypted Password: " + unecryptedPassword);
 		
 		MessageDigest messageDigest=null;
